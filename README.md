@@ -183,3 +183,5 @@ npx prisma migrate status
 npx prisma migrate dev --name nome-da-migracao
 ```
 
+Desenvolvido por Ana Luiza Melo GitHub: https://github.com/analuizamelodev
+
